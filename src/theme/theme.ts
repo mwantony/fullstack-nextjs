@@ -1,8 +1,7 @@
 const theme = {
-    typography: {
-        fontFamily: '"Open Sans", "sans-serif"'
+  typography: {
+    fontFamily: '"Open Sans", sans-serif',
+  }
+};
 
-    }
-}
-
-export default theme
+export default theme;
